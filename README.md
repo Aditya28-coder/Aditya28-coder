@@ -28,3 +28,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aditya28-coder&show_icons=true&locale=en&layout=compact" alt="aditya28-coder" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aditya28-coder&show_icons=true&locale=en" alt="aditya28-coder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aditya28-coder&" alt="aditya28-coder" /></p>
