@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **raj713294@gmail.com**
 
-- ⚡ Fun fact **Full Stack Developers: Masters of Digital Wizardry, conjuring seamless web experiences with code spells**
+- ⚡ Fun fact **Google's first-ever tweet was "I'm feeling lucky" written in binary code: 01000101 00100110 00100000 01100110 01100101 01100101 01101100 01101001 01101110 01100111 00100000 01101100 01110101 01100011 01101011 01111001. It translates to "I'm feeling lucky.**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/aditya-raj2801) 
