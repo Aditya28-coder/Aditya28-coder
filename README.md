@@ -2,13 +2,13 @@
 
 <img align="right" alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" />
 
-- 🔭 I’m currently working on **Ai Website builder**
+- 🔭 I’m currently working on **Sketch 2 Design SAAS**
 
 - 🌱 I’m currently learning **NEXT.js 15**
 
-- 👯 I’m looking to collaborate on **MERN Stack**
+- 👯 I’m looking to collaborate on **Next.JS 15**
 
-- 🤝 I’m looking for help with **MERN Stack**
+- 🤝 I’m looking for help with **NEXT.js 15**
 
 - 📫 How to reach me **raj713294@gmail.com**
 
